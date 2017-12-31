@@ -1,0 +1,74 @@
+{
+   "events":[
+       {
+            "name":"YOW!",
+            "locations": ["Sydney", "Melbourne", "Brisbane", "Perth"],
+            "upcommingEvents": [],
+            "website":"http://yowconference.com.au/",
+            "tags":["conference","technology agnostic"]
+       },
+       {
+            "name":"JSConf",
+            "locations": ["Melbourne"],
+            "upcommingEvents": [{ "dates":["2018-03-21", "2018-03-22"], "location":"Melbourne"}],
+            "website":"http://2018.jsconfau.com/",
+            "tags":["conference","javascript", "js"]
+       },
+       {
+            "name":"CSSConf",
+            "locations": ["Melbourne"],
+            "upcommingEvents": [{ "dates":["2018-03-20"], "location":"Melbourne"}],
+            "website":"https://2018.cssconf.com.au/",
+            "tags":["conference","css"]
+       },
+       {
+            "name":"NDC Sydney",
+            "locations": ["Sydney"],
+            "upcommingEvents": [{"dates":["2018-09-17","2018-09-18","2018-09-19","2018-09-20","2018-09-21"], "location":"Sydney"}],
+            "website":"https://ndcsydney.com/",
+            "tags":["conference","microsoft"]
+       },
+       {
+            "name":"Web Directions Design",
+            "locations": ["Melbourne"],
+            "upcommingEvents": [{ "dates":["2018-04-12", "2018-04-213"], "location":"Melbourne"}],
+            "website":"http://2018.jsconfau.com/",
+            "tags":["conference","design"]
+        },
+        {
+            "name":"Web Directions Code",
+            "locations": ["Melbourne"],
+            "upcommingEvents": [{ "dates":["2018-10-02", "2018-10-03"], "location":"Melbourne"}],
+            "website":"https://2018.cssconf.com.au/",
+            "tags":["conference","javascript", "js"]
+        },
+        {
+            "name":"DDD Sydney",
+            "locations": ["Sydney"],
+            "upcommingEvents": [],
+            "website":"http://dddsydney.com.au",
+            "tags":["conference","technology agnostic"]
+        },
+        {
+           "name":"DDD Melbourne",
+           "locations": ["Melbourne"],
+           "upcommingEvents": [],
+           "website":"https://www.dddmelbourne.com/",
+           "tags":["conference","technology agnostic"]
+        },
+        {
+            "name":"DDD Brisbaine",
+            "locations": ["Brisbaine"],
+            "upcommingEvents": [],
+            "website":"http://www.dddbrisbane.com/",
+            "tags":["conference","technology agnostic"]
+        },
+        {
+            "name":"DDD Perth",
+            "locations": ["Perth"],
+            "upcommingEvents": [],
+            "website":"https://dddperth.com/",
+            "tags":["conference","technology agnostic"]
+        }
+   ] 
+}
